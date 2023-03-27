@@ -1,6 +1,7 @@
 # Tutorials
-!!!!!! Project Name !!!!!!
-Agricultural Crop Recommendation Based On Productivity And Season
+!!!!!! Project Name !!!!!!  
+
+Agricultural Crop Recommendation Based On Productivity And Season.
 
 This project uses machine learning techniques to recommend crops based on the productivity of the soil and the current season.
 The goal is to help farmers make informed decisions about which crops to plant, which can ultimately increase yields and profits.
