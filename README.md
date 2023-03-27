@@ -11,8 +11,11 @@ The goal is to help farmers make informed decisions about which crops to plant, 
 To get started with this project, follow these steps:
 
 Clone the repository: git clone https://github.com/sak762/Tutorials
+
 Install the required dependencies: pip install -r requirements.txt
+
 Run the application: python app.py
+
 
 !!!!!! Usage !!!!!! 
 
