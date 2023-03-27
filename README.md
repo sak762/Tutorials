@@ -10,15 +10,15 @@ The goal is to help farmers make informed decisions about which crops to plant, 
 
 To get started with this project, follow these steps:
 
-Install Visual Studio Code development tool
+1)Install Visual Studio Code development tool
 
-Install python3.3  
+2)Install python3.3  
 
-Clone the repository: git clone https://github.com/sak762/Tutorials
+3)Clone the repository: git clone https://github.com/sak762/Tutorials
 
-Install the required dependencies: pip install -r requirements.txt
+4)Install the required dependencies: pip install -r requirements.txt
 
-Run the application: python app.py
+5)Run the application: python app.py
 
 
 !!!!!! Usage !!!!!! 
